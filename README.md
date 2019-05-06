@@ -1,4 +1,4 @@
-# Introduction Guide for Quantum Programming
+# Introduction Guide for Quantum Programming :sparkles:
 
 My solutions for Q-Drive Quantum Programming Assignments. These collection of notebooks designed to introduce the basics of quantum computation and quantum programming.
 
@@ -8,14 +8,14 @@ These notebooks are under license of QLatvia Software: http://qusoft.lu.lv/
 
 Use `index_bronze` notebook to navigate around the files.
 
-## Library Dependencies:
+## Library Dependencies: :electron:
 
  - Install `qiskit`
  - Install `numpy`
  - Install `matplotlib`
 
 
-## How `bronze` (jupyter notebooks) structured:
+## How `bronze` (jupyter notebooks) structured::books:
 
 - `Python review`: Review basic operations and libraries of Python3
 - `Some linear algebra`: Linear algebra review (dot product, matrix and tensor products)
@@ -25,6 +25,6 @@ Use `index_bronze` notebook to navigate around the files.
 - `Operations on (real-valued) qubits`: Reflection, Rotation, Quantum Teleportation, Rotation Automata
 - `Grover's search algorithm`: Inversion About the Mean, Phase Kickback, Grover's Search: One Qubit Representation
 
-### Quantum Machine Learning
+### Quantum Machine Learning :atom:
 
 * A paper about how quantum programming can be used together with machine-learning: https://arxiv.org/pdf/1804.10068.pdf
