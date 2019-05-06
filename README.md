@@ -8,6 +8,10 @@ These notebooks are under license of QLatvia Software: http://qusoft.lu.lv/
 
 Use `index_bronze` notebook to navigate around the files.
 
+You can simply clone the repo and work on the jupyter notebooks by yourself.
+
+If you just want to read-through I suggest going `notebook_html` folder to see rendered html files of the notebooks.
+
 ## Library Dependencies: :electron:
 
  - Install `qiskit`
