@@ -10,7 +10,7 @@ Use `index_bronze` notebook to navigate around the files.
 
 You can simply clone the repo and work on the jupyter notebooks by yourself.
 
-If you just want to read-through I suggest going `notebook_html` folder to see rendered html files of the notebooks.
+Note: GitHub not yet supports rendering new Jupyter Notebook format so you might not see the rendered versions of notebooks on the GitHub repo.
 
 ## Library Dependencies: :electron:
 
